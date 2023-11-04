@@ -55,6 +55,7 @@ To run this application, you will need the following software:
 - MySQL: An open-source relational database management system.
 - XAMPP: A web server solution that includes Apache, MySQL, and PHP for local development.
 - OpenAI API Key: Obtain an API key from OpenAI and configure it in the application to access their services.
+  
 
 Make sure to have these software components and the OpenAI API key installed and configured correctly before setting up the application.
 
@@ -63,5 +64,9 @@ We welcome contributions from the community to make this car recommendation web 
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this software in accordance with the terms specified in the license.
+
+Thank you for using our Car Recommendation Web Application! If you have any questions or feedback, please don't hesitate to reach out to us.
+## Watch the Demo
+To see a video demonstration of our Car Recommendation Web Application in action, please watch our YouTube video.
 
 Thank you for using our Car Recommendation Web Application! If you have any questions or feedback, please don't hesitate to reach out to us.
